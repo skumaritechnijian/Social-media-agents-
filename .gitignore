@@ -21,4 +21,4 @@ test-results/
 coverage/
 dist/
 build/
-
+*.code-workspace
