@@ -1,0 +1,18 @@
+{
+  "name": "social-shared",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch-wp": "tsx src/fetch-wp-post.ts",
+    "cross-post": "tsx src/cross-post.ts"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}

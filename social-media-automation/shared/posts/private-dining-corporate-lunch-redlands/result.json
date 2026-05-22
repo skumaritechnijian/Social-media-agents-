@@ -1,0 +1,54 @@
+{
+  "slug": "private-dining-corporate-lunch-redlands",
+  "timestamp": "2026-05-18T13:22:55.087Z",
+  "platforms": [
+    "medium",
+    "bluesky",
+    "x",
+    "youtube",
+    "tiktok"
+  ],
+  "visibility": "private",
+  "results": [
+    {
+      "platform": "medium",
+      "ok": false,
+      "durationMs": 0,
+      "stdout": "",
+      "stderr": "",
+      "skipped": "missing C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\private-dining-corporate-lunch-redlands\\medium\\article.md"
+    },
+    {
+      "platform": "bluesky",
+      "ok": false,
+      "durationMs": 0,
+      "stdout": "",
+      "stderr": "",
+      "skipped": "missing C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\private-dining-corporate-lunch-redlands\\bluesky\\post.md"
+    },
+    {
+      "platform": "x",
+      "ok": false,
+      "durationMs": 0,
+      "stdout": "",
+      "stderr": "",
+      "skipped": "missing C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\private-dining-corporate-lunch-redlands\\x\\tweet.txt"
+    },
+    {
+      "platform": "youtube",
+      "ok": false,
+      "durationMs": 0,
+      "stdout": "",
+      "stderr": "",
+      "skipped": "missing C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\private-dining-corporate-lunch-redlands\\youtube\\title.txt"
+    },
+    {
+      "platform": "tiktok",
+      "ok": false,
+      "durationMs": 0,
+      "stdout": "",
+      "stderr": "",
+      "skipped": "missing C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\private-dining-corporate-lunch-redlands\\tiktok\\caption.txt"
+    }
+  ]
+}

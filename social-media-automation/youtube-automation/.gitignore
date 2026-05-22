@@ -1,0 +1,4 @@
+auth/client_secret.json
+auth/youtube-token.json
+auth/*.png
+node_modules/

@@ -1,0 +1,22 @@
+Healthcare practices should prepare for a HIPAA audit in 2026 by treating compliance as an ongoing program, not a one-time documentation project. OCR usually wants to see evidence that your organization understands where ePHI lives, has assessed the risks to that data, has implemented reasonable safeguards, and can prove that policies are being followed.
+
+Start with these core areas:
+
+1. Complete a current Security Risk Analysis covering all systems that create, receive, maintain, or transmit ePHI.
+2. Maintain a risk register that documents vulnerabilities, likelihood, impact, remediation owners, and remediation status.
+3. Verify administrative safeguards, including a named HIPAA Security Officer, workforce access procedures, annual training records, and sanction policies.
+4. Document physical safeguards such as facility access controls, workstation security, clean desk practices, and media disposal procedures.
+5. Validate technical safeguards, including unique user IDs, MFA, encryption, audit logging, automatic logoff, and secure remote access.
+6. Review every Business Associate Agreement and make sure each vendor that touches ePHI has a signed, current BAA.
+7. Maintain breach notification procedures, incident response records, and a breach log for all privacy or security incidents.
+8. Test your incident response plan at least annually and keep evidence of that test.
+
+For Orange County healthcare practices, ransomware, vendor exposure, cloud misconfiguration, and incomplete BAA records are especially common audit-readiness gaps. You can also review current [cybersecurity warnings for Orange County businesses](https://technijian.com/cyber-security/fbi-issues-major-cybersecurity-warnings-what-orange-county-businesses-must-do-now/) to understand why OCR is putting more pressure on healthcare security programs.
+
+The biggest mistake is waiting until OCR contacts you. A practice with a documented, actively managed program and a few known remediation items is usually in a much better position than a practice with decent technical controls but no evidence of ongoing compliance management.
+
+Technijian has a full Orange County HIPAA audit readiness checklist here:
+
+https://technijian.com/managed-it-services/healthcare-it/how-to-prepare-for-a-hipaa-audit-in-2026-the-complete-oc-healthcare-checklist/?utm_source=quora&utm_medium=answer&utm_campaign=hipaa_audit_2026_oc_healthcare
+
+For HIPAA audit readiness support, visit [Technijian](https://technijian.com/).

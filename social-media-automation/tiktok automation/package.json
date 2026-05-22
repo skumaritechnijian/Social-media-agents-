@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-automation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "login": "node login-passive.cjs",
+    "publish": "node publish.cjs"
+  },
+  "dependencies": {
+    "patchright": "^1.59.4",
+    "playwright": "^1.59.1"
+  }
+}

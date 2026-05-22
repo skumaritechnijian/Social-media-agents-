@@ -1,0 +1,17 @@
+{
+  "slug": "hipaa-audit-2026-oc-healthcare",
+  "timestamp": "2026-05-19T10:16:57.228Z",
+  "platforms": [
+    "medium"
+  ],
+  "visibility": "private",
+  "results": [
+    {
+      "platform": "medium",
+      "ok": false,
+      "durationMs": 181687,
+      "stdout": "\n> youtube-automation@1.0.0 md:post\n> tsx src/medium-post.ts C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\hipaa-audit-2026-oc-healthcare\\medium\\article.md\n\n\nTitle: How to Prepare for a HIPAA Audit in 2026: The Complete OC Healthcare Checklist\nBody: 6611 chars\nTags: hipaa, healthcare, cybersecurity, orange county, compliance\nMode: PUBLISH\n\nTyped article, waiting for autosave...\nSkipping tag input (Medium UI requires manual entry). Tags to add later: hipaa, healthcare, cybersecurity, orange county, compliance\n",
+      "stderr": "Publish flow failed: locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /^(Publish|Publish now)$/i }).last()\u001b[22m\n\n    at post (C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\youtube-automation\\src\\medium-post.ts:180:24) {\n  name: 'TimeoutError'\n}\nFailed. Screenshot: auth/medium-error-1779185816416.png\nlocator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /^(Publish|Publish now)$/i }).last()\u001b[22m\n\n    at post (C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\youtube-automation\\src\\medium-post.ts:180:24) {\n  name: 'TimeoutError'\n}\n"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Newport Beach businesses face unique IT disaster risks — wildfires, ransomware, SaaS outages, and high-value client data obligations under FINRA, HIPAA, and CPRA. This video walks through the 2026 disaster recovery plan: how to set RTO/RPO targets, tier your systems, choose between cold/warm/hot standby infrastructure, and meet regulatory testing requirements.
+
+Full guide: https://technijian.com/managed-it-services/it-disaster-recovery-for-newport-beach-businesses-the-2026-complete-planning-guide/?utm_source=youtube&utm_medium=video&utm_campaign=disaster_recovery_newport_beach_2026
+
+Topics covered:
+- Why Newport Beach has unique disaster risk
+- The four pillars: RTO/RPO, system tiering, recovery infrastructure, tested plans
+- Industry-specific compliance (FINRA Rule 4370, HIPAA contingency standard)
+- Ransomware, hardware failure, facility evacuation, and SaaS outage scenarios
+
+For a free DR readiness assessment for your Newport Beach business, contact Technijian: (949)-379-8500.
+
+#DisasterRecovery #NewportBeach #Cybersecurity #BusinessContinuity #ManagedIT

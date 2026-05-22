@@ -1,0 +1,17 @@
+{
+  "slug": "disaster-recovery-newport-beach-2026",
+  "timestamp": "2026-05-19T10:13:52.108Z",
+  "platforms": [
+    "medium"
+  ],
+  "visibility": "private",
+  "results": [
+    {
+      "platform": "medium",
+      "ok": false,
+      "durationMs": 14889,
+      "stdout": "\n> youtube-automation@1.0.0 md:post\n> tsx src/medium-post.ts C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\disaster-recovery-newport-beach-2026\\medium\\article.md\n\n\nTitle: IT Disaster Recovery for Newport Beach Businesses: The 2026 Complete Planning Guide\nBody: 11055 chars\nTags: disaster recovery, business continuity, cybersecurity, Newport Beach, Orange County\nMode: PUBLISH\n\n",
+      "stderr": "Publish flow failed: page.waitForTimeout: Target page, context or browser has been closed\n    at waitForEditor (C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\youtube-automation\\src\\medium-post.ts:91:16)\n    at async post (C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\youtube-automation\\src\\medium-post.ts:117:21)\npage.waitForTimeout: Target page, context or browser has been closed\n    at waitForEditor (C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\youtube-automation\\src\\medium-post.ts:91:16)\n    at async post (C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\youtube-automation\\src\\medium-post.ts:117:21)\n"
+    }
+  ]
+}

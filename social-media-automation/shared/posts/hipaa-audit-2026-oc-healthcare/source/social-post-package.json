@@ -1,0 +1,35 @@
+{
+  "campaignId": "hipaa-audit-2026-orange-county-healthcare",
+  "client": "technijian.com",
+  "createdAt": "2026-05-11",
+  "topic": "How to Prepare for a HIPAA Audit in 2026: The Complete OC Healthcare Checklist",
+  "sourceDraft": "../../prepare-hipaa-audit-2026-orange-county-healthcare.md",
+  "article": {
+    "baseUrl": "https://technijian.com/managed-it-services/healthcare-it/how-to-prepare-for-a-hipaa-audit-in-2026-the-complete-oc-healthcare-checklist/",
+    "trackedUrls": {
+      "bluesky": "https://technijian.com/managed-it-services/healthcare-it/how-to-prepare-for-a-hipaa-audit-in-2026-the-complete-oc-healthcare-checklist/?utm_source=bluesky&utm_medium=social&utm_campaign=hipaa_audit_2026_oc_healthcare",
+      "medium": "https://technijian.com/managed-it-services/healthcare-it/how-to-prepare-for-a-hipaa-audit-in-2026-the-complete-oc-healthcare-checklist/?utm_source=medium&utm_medium=syndication&utm_campaign=hipaa_audit_2026_oc_healthcare",
+      "quora": "https://technijian.com/managed-it-services/healthcare-it/how-to-prepare-for-a-hipaa-audit-in-2026-the-complete-oc-healthcare-checklist/?utm_source=quora&utm_medium=answer&utm_campaign=hipaa_audit_2026_oc_healthcare"
+    }
+  },
+  "platforms": {
+    "bluesky": {
+      "postType": "link_post",
+      "captionFile": "platform-posts.md#bluesky"
+    },
+    "medium": {
+      "postType": "syndicated_article",
+      "contentFile": "medium-article.md",
+      "canonicalUrl": "https://technijian.com/managed-it-services/healthcare-it/how-to-prepare-for-a-hipaa-audit-in-2026-the-complete-oc-healthcare-checklist/"
+    },
+    "quora": {
+      "postType": "answer",
+      "contentFile": "quora-answer.md"
+    }
+  },
+  "status": {
+    "readyForManualPosting": true,
+    "publishedByCodex": false,
+    "reason": "No authenticated Bluesky, Medium, or Quora publishing connector/session is available in this workspace."
+  }
+}

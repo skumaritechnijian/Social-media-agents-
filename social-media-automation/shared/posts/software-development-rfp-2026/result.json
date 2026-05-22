@@ -1,0 +1,17 @@
+{
+  "slug": "software-development-rfp-2026",
+  "timestamp": "2026-05-19T10:56:35.973Z",
+  "platforms": [
+    "youtube"
+  ],
+  "visibility": "private",
+  "results": [
+    {
+      "platform": "youtube",
+      "ok": true,
+      "durationMs": 16740,
+      "stdout": "\n> youtube-automation@1.0.0 upload\n> tsx src/upload.ts C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\software-development-rfp-2026\\youtube\\video.mp4 --title Software Development RFP That Attracts the Right Vendors --description-file C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\Saroj - X Twitter YouTube TikTok Medium Bluesky\\shared\\posts\\software-development-rfp-2026\\youtube\\description.txt --tags software development RFP,RFP writing,vendor selection,IT procurement,custom software development,managed IT services,Technijian,business IT,vendor RFP,IT vendor management,RFP best practices,Orange County IT --visibility private\n\nUploaded as PRIVATE.\nVideo ID: USR-aj_FF3c\nURL: https://www.youtube.com/watch?v=USR-aj_FF3c\n",
+      "stderr": ""
+    }
+  ]
+}

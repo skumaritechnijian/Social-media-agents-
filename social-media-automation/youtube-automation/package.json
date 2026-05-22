@@ -1,0 +1,36 @@
+{
+  "name": "youtube-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login": "tsx src/login.ts",
+    "upload": "tsx src/upload.ts",
+    "update": "tsx src/update-video.ts",
+    "thumbnail": "tsx src/thumbnail.ts",
+    "stats": "tsx src/stats.ts",
+    "md:login": "tsx src/medium-login.ts",
+    "md:post": "tsx src/medium-post.ts",
+    "md:publish-techdebt": "tsx src/medium-publish-existing.ts",
+    "md:draft": "tsx src/medium-post.ts --draft",
+    "bsky:post": "tsx src/bluesky-post.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^171.4.0",
+    "gray-matter": "^4.0.3",
+    "open": "^11.0.0",
+    "patchright": "^1.59.4",
+    "playwright": "^1.59.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}

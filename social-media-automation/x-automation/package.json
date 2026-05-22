@@ -1,0 +1,25 @@
+{
+  "name": "x-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login": "tsx src/login.ts",
+    "post": "tsx src/post.ts",
+    "login:real": "tsx src/login-real.ts",
+    "post:real": "tsx src/post-real.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "patchright": "^1.59.4",
+    "playwright": "^1.59.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}

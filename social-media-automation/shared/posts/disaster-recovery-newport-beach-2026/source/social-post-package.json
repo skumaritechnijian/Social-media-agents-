@@ -1,0 +1,36 @@
+{
+  "campaignId": "disaster-recovery-newport-beach-2026",
+  "client": "technijian.com",
+  "createdAt": "2026-05-18",
+  "topic": "IT Disaster Recovery for Newport Beach Businesses: The 2026 Complete Planning Guide",
+  "article": {
+    "wpPostId": 49994,
+    "baseUrl": "https://technijian.com/managed-it-services/it-disaster-recovery-for-newport-beach-businesses-the-2026-complete-planning-guide/",
+    "trackedUrls": {
+      "bluesky": "https://technijian.com/managed-it-services/it-disaster-recovery-for-newport-beach-businesses-the-2026-complete-planning-guide/?utm_source=bluesky&utm_medium=social&utm_campaign=disaster_recovery_newport_beach_2026",
+      "medium": "https://technijian.com/managed-it-services/it-disaster-recovery-for-newport-beach-businesses-the-2026-complete-planning-guide/?utm_source=medium&utm_medium=syndication&utm_campaign=disaster_recovery_newport_beach_2026",
+      "quora": "https://technijian.com/managed-it-services/it-disaster-recovery-for-newport-beach-businesses-the-2026-complete-planning-guide/?utm_source=quora&utm_medium=answer&utm_campaign=disaster_recovery_newport_beach_2026"
+    }
+  },
+  "platforms": {
+    "bluesky": {
+      "postType": "link_post",
+      "captionFile": "platform-posts.md#bluesky"
+    },
+    "medium": {
+      "postType": "syndicated_article",
+      "contentFile": "../Medium/disaster-recovery-newport-beach-2026/medium-article.md",
+      "canonicalUrl": "https://technijian.com/managed-it-services/it-disaster-recovery-for-newport-beach-businesses-the-2026-complete-planning-guide/",
+      "tags": ["disaster recovery", "business continuity", "cybersecurity", "Newport Beach", "Orange County"]
+    },
+    "quora": {
+      "postType": "answer",
+      "contentFile": "../Quora/disaster-recovery-newport-beach-2026/quora-answer.md"
+    }
+  },
+  "status": {
+    "readyForAutomatedPosting": true,
+    "publishedByCodex": false,
+    "googleAccount": "seomarketing.technijian@gmail.com"
+  }
+}
