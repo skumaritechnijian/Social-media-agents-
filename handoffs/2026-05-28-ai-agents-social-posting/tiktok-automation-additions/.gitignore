@@ -1,0 +1,6 @@
+auth/
+node_modules/
+*.log
+*.tmp
+*.png
+

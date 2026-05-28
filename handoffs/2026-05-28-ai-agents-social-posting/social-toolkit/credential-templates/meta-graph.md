@@ -1,0 +1,7 @@
+# Meta Graph API Credentials
+
+app_id: REPLACE_WITH_META_APP_ID
+app_secret: REPLACE_WITH_META_APP_SECRET
+page_id: REPLACE_WITH_FACEBOOK_PAGE_ID
+ig_business_user_id: REPLACE_WITH_INSTAGRAM_BUSINESS_USER_ID
+

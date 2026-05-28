@@ -1,0 +1,5 @@
+client_key: REPLACE_WITH_TIKTOK_CLIENT_KEY
+client_secret: REPLACE_WITH_TIKTOK_CLIENT_SECRET
+redirect_uri: http://localhost:8769/tt-callback
+username: REPLACE_WITH_TIKTOK_HANDLE_WITHOUT_AT
+
